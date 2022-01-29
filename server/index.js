@@ -7,7 +7,7 @@ const port = 8080
 app.use(express.json())
 
 app.get('/', (req, res) => {
-  res.send('GETTED')
+  res.send('Hello World!')
 })
 
 app.listen(port, () => {
