@@ -8,7 +8,7 @@ npm install
 ```
 
 ## User Story
-Your team has been tasked with writing a full stack application that stores information about local dogs. Luckily, you don't have to write the entire portion, just the backend! Per their request, the server should be able to add dogs to the database, retrieve information about any and/or all dogs in the database, update information about any dog in the database, and delete any dog in the database. Your teammates working on the frontend have written their code to expect incoming data in this shape:
+Your team has been tasked with writing a full stack application that stores information about local dogs. Luckily, you don't have to write the whole thing, just the backend! Per their request, the server should be able to add dogs to the database, retrieve information about any and/or all dogs in the database, update information about any dog in the database, and delete any dog in the database. Your teammates working on the frontend have written their code to expect incoming data in this shape:
 ```
 [
   {
